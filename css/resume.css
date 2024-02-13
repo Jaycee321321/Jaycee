@@ -1,0 +1,14 @@
+ .container-1{
+  background-color: lightcyan; 
+   }
+   .ho img{
+    margin-left:  auto;
+    display: block;
+    display: flex;
+  }
+   .ho img{
+   width: 100px;
+   height:  100px;
+   border-radius: 50%;
+   border: none;     
+  }
